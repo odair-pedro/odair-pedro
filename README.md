@@ -1,7 +1,8 @@
 ### Hi there!
 #### Welcome to my GitHub 😃
 
-- I'm a Software Architect/Developer, currently working on [Ambevtech](https://ambevtech.com.br/) 👨‍💼
+- I'm a Software Architect/Developer, currently working on __MercadoLibre__
+- Data Science and Machine Learning :robot: student in my free time
 - A Linux 🐧 and Open Source 📖 enthusiastic
 
 #### Some of my favorite tecnologies
