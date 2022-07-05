@@ -1,7 +1,7 @@
 ### Hi there!
 #### Welcome to my GitHub 😃
 
-- I'm a Software Architect/Developer, currently working on __MercadoLibre__
+- I'm a Software Architect/Developer, currently working at __@mercadolibre__
 - Data Science and Machine Learning :robot: student in my free time
 - A Linux 🐧 and Open Source 📖 enthusiastic
 
